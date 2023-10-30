@@ -35,3 +35,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreshth-srivastava&show_icons=true&locale=en&layout=compact" alt="shreshth-srivastava" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreshth-srivastava&show_icons=true&locale=en" alt="shreshth-srivastava" /></p>
+
+[![An image of @shreshthsrivastava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreshthsrivastava)](https://holopin.io/@shreshthsrivastava)
