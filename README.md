@@ -32,8 +32,8 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://kivy.org/doc/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" alt="python-kivy" width="40" height="40"/> </a></p>
 
-<-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreshth-srivastava&show_icons=true&locale=en&theme=highcontrast" alt="shreshth-srivastava" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreshth-srivastava&show_icons=true&locale=en&theme=highcontrast" alt="shreshth-srivastava" /></p>) -->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shreshth-Srivastava&theme=highcontrast" alt="GitHub Streak" /></a>
-<-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreshth-srivastava&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="shreshth-srivastava" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreshth-srivastava&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="shreshth-srivastava" /></p> -->
 
 [![An image of @shreshthsrivastava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreshthsrivastava)](https://holopin.io/@shreshthsrivastava)
